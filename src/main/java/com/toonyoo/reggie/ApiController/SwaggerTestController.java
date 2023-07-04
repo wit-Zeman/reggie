@@ -1,4 +1,4 @@
-package com.toonyoo.reggie.controller;
+package com.toonyoo.reggie.ApiController;
 
 
 import com.toonyoo.reggie.mapper.UserMapper;
